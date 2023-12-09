@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Vianda semanal simple Saludable",
+    "description": "Vianda de x5 mixtas saludables",
+    "price": 7000,
+    "thumbnail": "ruta/de/imagen-1.jpg",
+    "code": "P001",
+    "stock": 17,
+    "id": 1
+  },
+  {
+    "title": "Licuadora Actualizada",
+    "description": "Licuadora de última generación con múltiples funciones.",
+    "price": 79.99,
+    "thumbnail": "ruta/nueva/imagen-de-la-licuadora.jpg",
+    "code": "LIC002",
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "Vianda semanal doble estandar",
+    "description": "Vianda de x10 mixtas estandar",
+    "price": 12000,
+    "thumbnail": "ruta/de/imagen-3.jpg",
+    "code": "P004",
+    "stock": 23,
+    "id": 4
+  },
+  {
+    "title": "Vianda semanal doble estandar",
+    "description": "Vianda de x10 mixtas estandar",
+    "price": 12000,
+    "thumbnail": "ruta/de/imagen-3.jpg",
+    "code": "P004",
+    "stock": 23,
+    "id": 5
+  },
+  {
+    "title": "Vianda semanal doble Saludable",
+    "description": "Vianda de x10 mixtas saludables",
+    "price": 13000,
+    "thumbnail": "ruta/de/imagen-2.jpg",
+    "code": "P002",
+    "stock": 9,
+    "id": 6
+  },
+  {
+    "title": "Vianda semanal simple estandar",
+    "description": "Vianda de x5 mixtas estandar",
+    "price": 6500,
+    "thumbnail": "ruta/de/imagen-3.jpg",
+    "code": "P003",
+    "stock": 17,
+    "id": 7
+  }
+]
